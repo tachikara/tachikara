@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tachikara
-- 👀 I’m interested in more about programming languages.
+- 👀 I’m interested in learning more about programming languages.
 - 🌱 I’m currently learning Python thru Code in Place.
 - ⚡ Fun fact: 🐱🐾🐶
 
